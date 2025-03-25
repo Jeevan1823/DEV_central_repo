@@ -22,3 +22,4 @@ public class Factorial {
         scanner.close();
     }
 }
+//this is the code is used to provide factorial of the given number 
