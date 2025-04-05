@@ -16,7 +16,7 @@ int fact() {
             factorial *= i;
         }
         
-        // Print the result
+        // Print the result and execute
         printf("Factorial of %d is %d\n", number, factorial);
     }
     
